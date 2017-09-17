@@ -1,0 +1,5 @@
+imports:
+  - test1.yaml
+
+test2: 'value4'
+test3: 'value3'
